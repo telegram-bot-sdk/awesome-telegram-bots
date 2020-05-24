@@ -46,7 +46,7 @@ Telegram is a cloud-based mobile and desktop messaging app with a focus on secur
 
 > Awesome Telegram Bots built with [Telegram Bot SDK](https://github.com/telegram-bot-sdk/telegram-bot-sdk).
 >
-> Is your project or product using Telegram Bot SDK? Let us know, append it here under its appropriate category.
+> Is your project using Telegram Bot SDK? Let us know, append it here under its relevant category.
 
 
 ### Organizations
