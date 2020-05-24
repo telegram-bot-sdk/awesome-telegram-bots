@@ -1,4 +1,4 @@
-# Awesome Telegram Bots [<img src="media/telegram-logo.svg" width="250" align="right" alt="Telegram">](https://www.telegram.org)
+# Awesome Telegram Bots [<img src="media/telegram-logo.svg" width="150" align="right" alt="Telegram">](https://www.telegram.org)
 
 > List of awesome Telegram Bots built with [Telegram Bot SDK](https://github.com/telegram-bot-sdk/telegram-bot-sdk), open-source projects, guides, blogs and other resources.
 
