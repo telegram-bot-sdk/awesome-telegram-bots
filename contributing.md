@@ -11,7 +11,8 @@ Ensure your pull request adheres to the following guidelines:
 - Add your bot **ONLY** if it was built using the [Telegram Bot SDK](https://github.com/telegram-bot-sdk/telegram-bot-sdk).
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
-- Use the following format: `[title](link) - Description.`
+- Use the following format for bot listing:`[@botusername](https://t.me/botusername) - Description.`
+- Use the following format for all others: `[title](link) - Description.`
 - Additions should be added to the bottom of the relevant section.
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
