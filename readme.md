@@ -178,6 +178,7 @@ Create an addon for Telegram Bot SDK and add it here!
 - [@PackagistBot](https://t.me/PackagistBot) - Search Packagist / [source code](https://github.com/vitormattos/bot-packagist).
 - [@OneTimePassBot](https://t.me/OneTimePassBot) - Generate TOTP / [source code](https://github.com/vitormattos/bot-onetimepass).
 - [@trafficrobot](https://t.me/trafficrobot) - Open source project that generates disposable emails / [more details](https://trafficrobot.tk/).
+- [@amztracker_bot](https://t.me/amztracker_bot) - Monitor and receive a notification when an amazon product change their price to low.
 
 ### Other
 
