@@ -48,7 +48,7 @@ Telegram is a cloud-based mobile and desktop messaging app with a focus on secur
 
 Create an addon for Telegram Bot SDK and add it here!
 
-- [Convo](https://github.com/telegram-bot-sdk/convo) - Conversation Support for your Telegram Bot.
+- [Dialogs](https://github.com/koot-labs/telegram-bot-dialogs/) - Conversation Support for your Telegram Bot (SDK 3+).
 
 ## Mentions
 
