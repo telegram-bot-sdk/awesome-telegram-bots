@@ -1,5 +1,7 @@
 # Awesome Telegram Bots [<img src="media/telegram-logo.svg" width="150" align="right" alt="Telegram">](https://www.telegram.org)
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
 > List of awesome Telegram Bots built with [Telegram Bot SDK](https://github.com/telegram-bot-sdk/telegram-bot-sdk), open-source projects, guides, blogs and other resources.
 
 Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed. 
