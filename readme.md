@@ -38,7 +38,7 @@ Telegram is a cloud-based mobile and desktop messaging app with a focus on secur
 
 - [Telegram Bots Intro](https://core.telegram.org/bots)
 - [Telegram Bot API Docs](https://core.telegram.org/bots/api)
-- [SDK Documentation](https://telegrambotsdk.com)
+- [SDK Documentation](https://telegram-bot-sdk.com)
 
 ## Community
 
