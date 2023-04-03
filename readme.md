@@ -8,7 +8,7 @@ Telegram is a cloud-based mobile and desktop messaging app with a focus on secur
 
 **Telegram Bot SDK** is a PHP library that lets you build Telegram bots easily with support for Laravel and other frameworks.
 
-You can find a curated list of [Awesome esources](https://telegram-bot-sdk.com/community/resources) like the open-source projects, guides, blogs, and other resources relevant to this SDK or Telegram Bot API on [Telegram Bot SDK](https://telegram-bot-sdk) website.
+You can find a curated list of [Awesome Resources](https://telegram-bot-sdk.com/community/resources) like the open-source projects, guides, blogs, and other resources relevant to this SDK or Telegram Bot API on [Telegram Bot SDK](https://telegram-bot-sdk) website.
 
 ## Contents
 
