@@ -2,20 +2,18 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
-> List of awesome Telegram Bots built with [Telegram Bot SDK](https://github.com/telegram-bot-sdk/telegram-bot-sdk), open-source projects, guides, blogs and other resources.
+> List of awesome Telegram Bots built with [Telegram Bot SDK](https://github.com/telegram-bot-sdk/telegram-bot-sdk).
 
 Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed. 
 
 **Telegram Bot SDK** is a PHP library that lets you build Telegram bots easily with support for Laravel and other frameworks.
 
+You can find a curated list of [Awesome esources](https://telegram-bot-sdk.com/community/resources) like the open-source projects, guides, blogs, and other resources relevant to this SDK or Telegram Bot API on [Telegram Bot SDK](https://telegram-bot-sdk) website.
+
 ## Contents
 
 - [Intro](#intro)
 - [Community](#community)
-- [Addons](#addons)
-- [Mentions](#mentions)
-- [Tutorials](#tutorials)
-- [Videos](#videos)
 - [Telegram Bots](#telegram-bots)
   - [Organizations](#organizations)
   - [Business](#business)
@@ -45,39 +43,6 @@ Telegram is a cloud-based mobile and desktop messaging app with a focus on secur
 - [Slack](https://phpchat.co)
 - [Telegram](https://t.me/PHPChatCo)
 - [GitHub](https://github.com/telegram-bot-sdk)
-
-## Addons
-
-Create an addon for Telegram Bot SDK and add it here!
-
-- [Dialogs](https://github.com/koot-labs/telegram-bot-dialogs/) - Conversation Support for your Telegram Bot (SDK 3+).
-
-## Mentions
-
-- [Telegram Bot API PHP SDK](https://laravel-news.com/telegram-bot-api-php-sdk) - (SDK 2.x) Laravel News.
-- [Telegram Bot SDK](https://madewithlaravel.com/telegram-bot-sdk) - Made with Laravel.
-- [Resources for Telegram bots](https://botwiki.org/resources/telegram-bots/) - Botwiki.
-- [Managing a Telegram Bot: MyPokerBot Example](https://chatbotsmagazine.com/managing-a-telegram-bot-mypokerbot-example-d864f93a03bc) - (SDK 2.x) Chatbots Magazine.
-
-## Tutorials
-
-#### SDK 3.x
-
-- [Telegram Bot with Laravel Framework Tutorial - DEV](https://dev.to/yongkylie/telegram-bot-with-laravel-framework-tutorial-2cca) - Yongky Ali.
-- [Setup Telegram Bot SDK with webhook in Laravel - Xibel IT](https://www.xibel-it.eu/setup-telegram-bot-sdk-with-webhook-in-laravel/) - Xibel.
-- [Debug Telegram Bot SDK with webhook in Laravel - Xibel IT](https://www.xibel-it.eu/debug-telegram-bot-sdk-with-webhook-in-laravel/) - Xibel.
-- [Creating A Cryptocurrency Telegram Bot API With Laravel - TutsForWeb](https://tutsforweb.com/creating-a-cryptocurrency-telegram-bot-with-laravel/) - Hamza Ali.
-- [Sending Notifications To Telegram Messenger With Laravel - TutsForWeb](https://tutsforweb.com/sending-notifications-to-telegram-messenger-with-laravel/) - Hamza Ali.
-
-#### SDK 2.x
-
-- [Writing a Telegram Bot Step by Step - Tryshchenko Oleksandr](https://tryshchenko.com/archives/157/) - Oleksandr Tryshchenko.
-- [Come integrare le Telegram Bot API in Drupal 8 (Series) - Wellnet](https://www.wellnet.it/blog/tutorial/come-integrare-le-telegram-bot-api-drupal-8-parte-1) - An Italian series on integration in Drupal 8 by Nino Marrazzo.
-
-## Videos
-
-- [YouTube Series: Laravel: Разработка Telegram бота - Laravel Russia](https://www.youtube.com/playlist?list=PL82X9fw4S8uD0tTw6HGlDkk9lIc4mqrw-) - (SDK 3.x) A Russian video series on Telegram Bot development in Laravel by Vladimir Yuldashev.
-- [YouTube Series: Создание телеграм бота на примере, подходит для Laravel версии 5.6 и 5.5 - DKA-DEVELOP](https://www.youtube.com/playlist?list=PLD5U-C5KK50VJGLh7SxlGDb4ZCwTCRKNw) - (SDK 2.x) A Russian video series by DKA-DEVELOP.
 
 ## Telegram Bots
 
