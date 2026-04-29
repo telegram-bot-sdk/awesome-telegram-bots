@@ -147,6 +147,7 @@ You can find a curated list of [Awesome Resources](https://telegram-bot-sdk.com/
 - [@trafficrobot](https://t.me/trafficrobot) - Open source project that generates disposable emails / [more details](https://trafficrobot.tk/).
 - [@amztracker_bot](https://t.me/amztracker_bot) - Monitor and receive a notification when an amazon product change their price to low.
 - [@sslmonitoringbot](https://t.me/sslmonitoringbot) - Domain certificate monitoring system.
+- [@cybercollectorbot](https://t.me/cybercollectorbot) - Download videos from TikTok (no watermark), Instagram Reels/Stories, YouTube Shorts, X/Twitter and Facebook. Free, no signup.
 
 ### Other
 
